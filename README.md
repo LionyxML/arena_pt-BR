@@ -13,4 +13,4 @@ Arquivo de tradução para Português Brasileiro do software Arena 3.5.x, uma ex
 
 ## Screenshot
 
-![arena translated to pt_BR](img/arena.png)
+![arena translated to pt_BR](images/arena.png)
