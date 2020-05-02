@@ -1,4 +1,4 @@
-# pt_BR Translation to: ARENA CHESS GUI
+# pt_BR Translation for: ARENA CHESS GUI
 
 Arquivo de tradução para Português Brasileiro do software Arena 3.5.x, uma excelente interface gráfica para engines de xadrez que roda com protocolo Xboard ou UCI (disponível em www.playwitharena.de)
 
